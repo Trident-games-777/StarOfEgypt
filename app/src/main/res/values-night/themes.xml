@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Theme.StarOfEgypt" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+</resources>
